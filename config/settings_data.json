@@ -1656,7 +1656,7 @@
         "settings": {
           "dark_theme": true,
           "autoplay": true,
-          "autoloop": false,
+          "autoloop": true,
           "mp4": "https:\/\/fb.watch\/foGReV329D\/",
           "mp4_preview": "Blue_Sky.mp4?v=1596830001",
           "video": "",
