@@ -413,7 +413,7 @@
           "1595533985043": {
             "type": "content",
             "settings": {
-              "value_prop": "shipping"
+              "value_prop": "security"
             }
           },
           "1595533879839-1": {
@@ -746,8 +746,8 @@
       "1576887448540": {
         "type": "featured-text",
         "settings": {
-          "title": "Breakthrough solar products.",
-          "content": "<p>GoSun builds solar appliances to help you live with more independence and resilience.  Using only the Sun, now you can cook (day or night), cool, charge, light or purify water.<\/p>",
+          "title": "Les ailes de l'océan",
+          "content": "<p>Une maison d'édition pensée pour les auteurs de la Réunion.<\/p>",
           "button_label": "",
           "button_link": "",
           "text_size": "featured_text",
