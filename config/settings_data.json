@@ -267,7 +267,6 @@
           "1602281874842-0": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/20201003-Brew--023.jpg",
               "featured_product": "fusion",
               "rating": 4,
               "title": "Fast, fun, & delicious.",
@@ -279,7 +278,6 @@
           "1607117291127": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/darcy.jpg",
               "featured_product": "solar-kitchen",
               "rating": 5,
               "title": "My emergency prep kit is complete.",
@@ -291,7 +289,6 @@
           "1602281874842-1": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/20190330-IMG_9302.jpg",
               "featured_product": "chill",
               "rating": 5,
               "title": "Changed the way we boat.",
@@ -303,7 +300,6 @@
           "1602281874842-2": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/20201003-Brew--025.jpg",
               "featured_product": "flow-pro",
               "rating": 5,
               "title": "Much better than hand-sanitizer.",
@@ -315,7 +311,6 @@
           "1602281874842-3": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/20200908-P1100017.MP4.00_00_04_11.Still001.jpg",
               "featured_product": "solarpanel-30",
               "rating": 4.5,
               "title": "Peace of mind, anywhere.",
@@ -327,7 +322,6 @@
           "1607117811837": {
             "type": "product",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Brew_Coffee--03.jpg",
               "featured_product": "brew",
               "rating": 1,
               "title": "My morning hero.",
@@ -355,21 +349,21 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "menu": "products-footer",
+              "menu": "",
               "social_icons_footer": false
             }
           },
           "1562619085836": {
             "type": "link_list",
             "settings": {
-              "menu": "company",
+              "menu": "",
               "social_icons_footer": false
             }
           },
           "footer-2": {
             "type": "link_list",
             "settings": {
-              "menu": "support",
+              "menu": "",
               "social_icons_footer": false
             }
           },
@@ -396,13 +390,13 @@
         "type": "feature-1",
         "disabled": true,
         "settings": {
-          "image": "shopify:\/\/shop_images\/Exterior_v2.jpg",
           "overline": "Coming Fall 2020",
           "title": "Living off-grid has never been easier.",
           "description": "Meet the GoSun Dream: A solar powered, off-grid, smart tiny home.",
           "button1": "Live the dream",
           "button1_url": "shopify:\/\/pages\/dream-tiny-house",
           "button2": "",
+          "button2_url": "",
           "hero_external": false,
           "display_text": false,
           "full_width": true,
@@ -472,11 +466,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Fusion_Hero_Open_for_MegaHeader.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Fusion",
               "image_link_bottom": "shopify:\/\/products\/fusion",
               "richtext_bottom": ""
@@ -487,11 +485,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Sport_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Sport",
               "image_link_bottom": "shopify:\/\/products\/sport",
               "richtext_bottom": ""
@@ -502,11 +504,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Go_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Go",
               "image_link_bottom": "shopify:\/\/products\/go",
               "richtext_bottom": ""
@@ -530,11 +536,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Chill_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Chill",
               "image_link_bottom": "shopify:\/\/products\/chill",
               "richtext_bottom": ""
@@ -545,11 +555,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Chill-Pro_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Chill + SolarPanel 30",
               "image_link_bottom": "shopify:\/\/products\/chill-solarpanel-30",
               "richtext_bottom": ""
@@ -560,11 +574,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Chill-Ultimate_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Chill + SolarTable 60",
               "image_link_bottom": "shopify:\/\/products\/chill-solartable-60",
               "richtext_bottom": ""
@@ -602,21 +620,21 @@
           "1595519740851-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Go_Pour.jpg",
+              "link": "",
               "handle": "robjgreenfield"
             }
           },
           "1595519740851-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Man_Dog--02.jpg",
+              "link": "",
               "handle": "jetsetdior"
             }
           },
           "1595521353937": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Go_Picnic_86cc0015-1d0b-428c-84a2-0edcb8919efa.jpg",
+              "link": "",
               "handle": "vanproject"
             }
           }
@@ -731,6 +749,7 @@
           "title": "Breakthrough solar products.",
           "content": "<p>GoSun builds solar appliances to help you live with more independence and resilience.  Using only the Sun, now you can cook (day or night), cool, charge, light or purify water.<\/p>",
           "button_label": "",
+          "button_link": "",
           "text_size": "featured_text",
           "text_alignment": "center"
         }
@@ -1053,7 +1072,6 @@
           "1573056412858-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Beach.jpg",
               "link": "shopify:\/\/collections\/beach-boat",
               "title": "Beach & Boat"
             }
@@ -1061,7 +1079,6 @@
           "1573056412858-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Camping.jpg",
               "link": "shopify:\/\/collections\/camp-rv",
               "title": "Camp & RV"
             }
@@ -1069,7 +1086,6 @@
           "1573056412858-2": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Grill_Picnic.jpg",
               "link": "shopify:\/\/collections\/bbq-events",
               "title": "BBQ & Events"
             }
@@ -1077,7 +1093,6 @@
           "1573056412858-3": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Emergency.jpg",
               "link": "shopify:\/\/collections\/off-grid-emergency",
               "title": "Off-Grid & Emergency"
             }
@@ -1085,7 +1100,6 @@
           "1573056412858-4": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Sport_Food.jpg",
               "link": "shopify:\/\/collections\/todays-deals",
               "title": "Today's Deals"
             }
@@ -1109,37 +1123,37 @@
           "1594926564453-0": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Forbes.png"
+              "link": ""
             }
           },
           "1594926564453-1": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Discovery_Channel.png"
+              "link": ""
             }
           },
           "1594926564453-2": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/REI.png"
+              "link": ""
             }
           },
           "1594926564453-3": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Nat_Geo.png"
+              "link": ""
             }
           },
           "1594927358685": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Inc.png"
+              "link": ""
             }
           },
           "1596897916701": {
             "type": "logo_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Fortune.png"
+              "link": ""
             }
           }
         },
@@ -1159,7 +1173,6 @@
         "type": "cta-banner",
         "disabled": true,
         "settings": {
-          "image": "shopify:\/\/shop_images\/Website.jpg",
           "overline": "Gifts of Gratitude",
           "title": "$10k Product Giveaway",
           "description": "To give props to those making an impact, GoSun is donating to organizations that you nominate for bringing more sunshine to the world.",
@@ -1272,7 +1285,6 @@
       "1602523575506": {
         "type": "cta-banner",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Exterior--05_copy_2.jpg",
           "overline": "Coming 2021",
           "title": "Living off-grid has never been easier.",
           "description": "Meet the GoSun Dream: A solar powered, off-grid, smart tiny home.",
@@ -1431,11 +1443,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/SolarPanel10_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "SolarPanel 10",
               "image_link_bottom": "shopify:\/\/products\/solarpanel-10",
               "richtext_bottom": ""
@@ -1446,11 +1462,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/SolarPanel30_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "SolarPanel 30",
               "image_link_bottom": "shopify:\/\/products\/solarpanel-30",
               "richtext_bottom": ""
@@ -1460,14 +1480,18 @@
             "type": "column",
             "settings": {
               "richtext_top": "",
-              "image_top": "shopify:\/\/shop_images\/SolarTable60_200w_32700fff-df16-4c1e-84ba-bc6cef9a1d78.png",
               "image_caption_top": "SolarTable 60",
               "image_link_top": "shopify:\/\/products\/solartable-60",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
+              "menu_4_link": "",
               "image_caption_bottom": "",
+              "image_link_bottom": "",
               "richtext_bottom": ""
             }
           },
@@ -1475,14 +1499,18 @@
             "type": "column",
             "settings": {
               "richtext_top": "",
-              "image_top": "shopify:\/\/shop_images\/PowerBank__200w.png",
               "image_caption_top": "PowerBank 144",
               "image_link_top": "shopify:\/\/products\/power-144",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
+              "menu_4_link": "",
               "image_caption_bottom": "",
+              "image_link_bottom": "",
               "richtext_bottom": ""
             }
           }
@@ -1505,7 +1533,6 @@
             "settings": {
               "name": "CES",
               "testimonial": "<p>GoSun won <strong>Climate Change Innovation Award<\/strong> (2019) and <strong>Small Business of the Year Award<\/strong> (2017).<\/p>",
-              "image": "shopify:\/\/shop_images\/CES_Cutout_cbe5255c-b009-48f4-924a-8f76b9da35b8.png",
               "quote": false
             }
           },
@@ -1514,7 +1541,6 @@
             "settings": {
               "name": "Forbes",
               "testimonial": "<p>People can now improve their quality of life without requiring the use of fossil fuels or deforestation.<\/p>",
-              "image": "shopify:\/\/shop_images\/Forbes_9df8b2ca-1c20-4fdf-b9c2-e6bef515adc8.png",
               "quote": true
             }
           },
@@ -1523,7 +1549,6 @@
             "settings": {
               "name": "Discovery Channel",
               "testimonial": "<p>The GoSun is a stunning, tube-shaped portable oven powerful enough to bake, fry or broil a meal in as little as 10 minutes.<\/p>",
-              "image": "shopify:\/\/shop_images\/Discovery_Channel_-_Logo_2019_1.png",
               "quote": true
             }
           },
@@ -1532,7 +1557,6 @@
             "settings": {
               "name": "Top Chef",
               "testimonial": "<p>José Andrés challenges contestants to cook with GoSun solar-powered stoves.<\/p>",
-              "image": "shopify:\/\/shop_images\/Top-Chef.png",
               "quote": false
             }
           },
@@ -1541,7 +1565,6 @@
             "settings": {
               "name": "Tech Crunch",
               "testimonial": "<p>Fire is for prehistoric man. The modern man uses the sustainable and renewable energy to cook meats and veggies – like the GoSun Stove .<\/p>",
-              "image": "shopify:\/\/shop_images\/Tech_Crunch_5874e5c2-0199-4850-b73c-487d4728b7b2.png",
               "quote": true
             }
           },
@@ -1550,7 +1573,6 @@
             "settings": {
               "name": "National Geographic",
               "testimonial": "<p>&quot;For simmering our sauces, we used GoSun Stoves, which are smaller and more compact but still have incredible power.&quot; - José Andrés<\/p>",
-              "image": "shopify:\/\/shop_images\/Nat_Geo_4ac47710-e6d5-4302-81c7-70ceb34120bb.png",
               "quote": true
             }
           }
@@ -1575,11 +1597,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Brew_Cover--min.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Brew",
               "image_link_bottom": "shopify:\/\/products\/brew",
               "richtext_bottom": ""
@@ -1590,11 +1616,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/Flow_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Flow",
               "image_link_bottom": "shopify:\/\/products\/flow",
               "richtext_bottom": ""
@@ -1605,11 +1635,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/FlowPro_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "Flow Pro",
               "image_link_bottom": "shopify:\/\/products\/flow-pro",
               "richtext_bottom": ""
@@ -1619,14 +1653,18 @@
             "type": "column",
             "settings": {
               "richtext_top": "",
-              "image_top": "shopify:\/\/shop_images\/FlowUltimate_200w.png",
               "image_caption_top": "Flow Ultimate",
               "image_link_top": "shopify:\/\/products\/flow-ultimate",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
+              "menu_4_link": "",
               "image_caption_bottom": "",
+              "image_link_bottom": "",
               "richtext_bottom": ""
             }
           }
@@ -1651,15 +1689,16 @@
           "mp4": "https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1333\/files\/Solar_Table_Instagram_v3--min.mp4?v=1596838245",
           "mp4_preview": "Blue_Sky.mp4?v=1596830001",
           "video": "",
-          "image": "shopify:\/\/shop_images\/video.jpg",
           "display_text_over_video": false,
           "title": "Become independent, healthy & resilient.",
           "subtitle": "",
           "caption_background": false,
           "caption_background_transparency": false,
           "button1_label": "Play Video",
+          "button1_link": "",
           "button1_highlight": false,
           "button2_label": "",
+          "button2_link": "",
           "button2_highlight": false,
           "text_position": "center",
           "text_align": "center"
@@ -1673,11 +1712,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/SolarLamp50_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "SolarLamp 50",
               "image_link_bottom": "shopify:\/\/products\/solarlamp-50",
               "richtext_bottom": ""
@@ -1687,14 +1730,18 @@
             "type": "column",
             "settings": {
               "richtext_top": "",
-              "image_top": "shopify:\/\/shop_images\/Cover.jpg",
               "image_caption_top": "SolarLamp 600",
               "image_link_top": "shopify:\/\/products\/solarlamp-600",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
+              "menu_4_link": "",
               "image_caption_bottom": "",
+              "image_link_bottom": "",
               "richtext_bottom": ""
             }
           },
@@ -1703,11 +1750,15 @@
             "settings": {
               "richtext_top": "",
               "image_caption_top": "",
+              "image_link_top": "",
               "menu_1": "",
+              "menu_1_link": "",
               "menu_2": "",
+              "menu_2_link": "",
               "menu_3": "",
+              "menu_3_link": "",
               "menu_4": "",
-              "image_bottom": "shopify:\/\/shop_images\/SolarLight_200w.png",
+              "menu_4_link": "",
               "image_caption_bottom": "SolarFlash",
               "image_link_bottom": "shopify:\/\/products\/solarlight",
               "richtext_bottom": ""
@@ -1727,7 +1778,6 @@
         "type": "components-banner",
         "disabled": true,
         "settings": {
-          "image": "shopify:\/\/shop_images\/WashHands_Studio.jpg",
           "overline": "",
           "title": "Meet Flow, our portable solar water purifier.",
           "subtitle": "<p>Stay clean on your adventures without the burden of carrying around tons of extra weight.<\/p>",
@@ -1784,28 +1834,29 @@
         "type": "header",
         "settings": {
           "show_sale": false,
-          "featured_product": "flatware",
+          "featured_product": "ou-est-bernadette",
           "gift_value": "100",
           "promo_icon": "local_shipping",
-          "promo_text": "Free shipping | Free returns",
+          "promo_text": "Envoi et retour gratuit",
           "promo_text_mobile": "",
           "countdown_date": "",
           "countdown_time": "",
-          "promo_link": "shopify:\/\/collections\/todays-deals",
+          "promo_link": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
           "promo_external": false,
-          "tagline_text": "Portable Power for the People",
+          "tagline_text": "Découvrez les auteurs de la Réunion",
           "social_icons_header": false,
-          "phone_number": "+1 888.868.6154",
-          "top_bar_menu": "top-bar-1",
+          "phone_number": "+1 888.888.888",
+          "top_bar_menu": "",
           "show_cart": true,
           "cart_icon": "cart",
           "logo_display_width": 115,
-          "logo": "shopify:\/\/shop_images\/GoSun_Logo--min_5283e9f9-a223-448f-9428-5bef049b2153.png",
-          "logo_mobile": "shopify:\/\/shop_images\/GoSun_Logo--min_5283e9f9-a223-448f-9428-5bef049b2153.png",
+          "logo": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
+          "logo_home": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
+          "logo_mobile": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
           "sale_link": true,
           "sale_icon": "card_giftcard",
           "sale_text": "<p>Sale ➞<\/p>",
-          "sale_url": "shopify:\/\/collections\/best-sellers",
+          "sale_url": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
           "sale_external": false,
           "main_linklist": "main-menu",
           "main_linklist2": "",
@@ -1828,7 +1879,6 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "image": "shopify:\/\/shop_images\/Cover_Fusion_197a57f7-c189-41a7-b040-caaffd9fc711.png",
               "link": "shopify:\/\/collections\/solar-ovens",
               "overline": "Shop",
               "title": "Ovens"
@@ -1838,7 +1888,6 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "image": "shopify:\/\/shop_images\/Cover_Chill.png",
               "link": "shopify:\/\/collections\/solar-coolers",
               "overline": "Shop",
               "title": "Coolers"
@@ -1848,7 +1897,6 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "image": "shopify:\/\/shop_images\/Cover_SolarPanel10.png",
               "link": "shopify:\/\/collections\/solar-chargers",
               "overline": "Shop",
               "title": "Chargers"
@@ -1858,7 +1906,6 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "image": "shopify:\/\/shop_images\/Cover_SolarLighting.png",
               "link": "shopify:\/\/collections\/solar-lighting",
               "overline": "Shop",
               "title": "Lighting"
@@ -1868,7 +1915,6 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "image": "shopify:\/\/shop_images\/Cover_Water--inverted.png",
               "link": "shopify:\/\/collections\/water",
               "overline": "Shop",
               "title": "Water"
@@ -1890,13 +1936,13 @@
       "1596226695144": {
         "type": "feature-1",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Chill_Fishing_02_9bb8d27a-7935-498f-9cfb-61de0a9710f9.jpg",
           "overline": "Cook. Cool. Light. Charge. Purify.",
           "title": "Power when you need it most.",
           "description": "Ditch the fuel and ice, stock up on solar gear to enjoy the comforts of home anywhere.",
           "button1": "Shop Deals",
           "button1_url": "shopify:\/\/collections\/todays-deals",
           "button2": "",
+          "button2_url": "",
           "hero_external": false,
           "display_text": true,
           "full_width": true,
