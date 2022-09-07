@@ -267,10 +267,10 @@
           "1602281874842-0": {
             "type": "product",
             "settings": {
-              "featured_product": "fusion",
+              "featured_product": "ou-est-bernadette",
               "rating": 4,
-              "title": "Fast, fun, & delicious.",
-              "description": "I cooked a hearty stew of mixed vegetables & diced chicken.",
+              "title": "Rapide et efficace",
+              "description": "J'adore",
               "handle": "sarah",
               "activity": "BBQ"
             }
@@ -278,10 +278,10 @@
           "1607117291127": {
             "type": "product",
             "settings": {
-              "featured_product": "solar-kitchen",
+              "featured_product": "ou-est-bernadette",
               "rating": 5,
-              "title": "My emergency prep kit is complete.",
-              "description": "I stole the show when my friends saw my set up at our beach party.",
+              "title": "Super",
+              "description": "L'histoire est cool",
               "handle": "Darcy",
               "activity": "beach parties"
             }
@@ -289,58 +289,22 @@
           "1602281874842-1": {
             "type": "product",
             "settings": {
-              "featured_product": "chill",
+              "featured_product": "ou-est-bernadette",
               "rating": 5,
-              "title": "Changed the way we boat.",
-              "description": "I liked my first Chill so much, I got a second one to use as a freezer.",
+              "title": "Ca change",
+              "description": "Le coucher est plus facil",
               "handle": "McKenna",
               "activity": "boating"
-            }
-          },
-          "1602281874842-2": {
-            "type": "product",
-            "settings": {
-              "featured_product": "flow-pro",
-              "rating": 5,
-              "title": "Much better than hand-sanitizer.",
-              "description": "No more grimy hands. The sink is perfect for dishes too.",
-              "handle": "ruby",
-              "activity": "camping"
-            }
-          },
-          "1602281874842-3": {
-            "type": "product",
-            "settings": {
-              "featured_product": "solarpanel-30",
-              "rating": 4.5,
-              "title": "Peace of mind, anywhere.",
-              "description": "When the grid goes down, I still have all the power I need.",
-              "handle": "thomas",
-              "activity": "emergencies"
-            }
-          },
-          "1607117811837": {
-            "type": "product",
-            "settings": {
-              "featured_product": "brew",
-              "rating": 1,
-              "title": "My morning hero.",
-              "description": "It's satisfying to enjoy hot, fresh coffee in even the most remote places.",
-              "handle": "Peter",
-              "activity": "off-grid living"
             }
           }
         },
         "block_order": [
           "1602281874842-0",
           "1607117291127",
-          "1602281874842-1",
-          "1602281874842-2",
-          "1602281874842-3",
-          "1607117811837"
+          "1602281874842-1"
         ],
         "settings": {
-          "title": "Share your adventures with"
+          "title": "Partager votre aventure avec les ailes de l'océan"
         }
       },
       "footer": {
@@ -1285,10 +1249,11 @@
       "1602523575506": {
         "type": "cta-banner",
         "settings": {
-          "overline": "Coming 2021",
-          "title": "Living off-grid has never been easier.",
-          "description": "Meet the GoSun Dream: A solar powered, off-grid, smart tiny home.",
-          "button1": "Learn more",
+          "image": "shopify:\/\/shop_images\/lesailesdelocean_79ac777a-8202-4580-85ee-2566dfce95da.jpg",
+          "overline": "À venir en 2023",
+          "title": "Du lourd du très lourd",
+          "description": "Venez vite",
+          "button1": "En savoir plus",
           "button1_url": "shopify:\/\/pages\/dream-tiny-house",
           "hero_external": false,
           "invert": false,
