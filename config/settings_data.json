@@ -1936,11 +1936,12 @@
       "1596226695144": {
         "type": "feature-1",
         "settings": {
-          "overline": "Cook. Cool. Light. Charge. Purify.",
-          "title": "Power when you need it most.",
-          "description": "Ditch the fuel and ice, stock up on solar gear to enjoy the comforts of home anywhere.",
-          "button1": "Shop Deals",
-          "button1_url": "shopify:\/\/collections\/todays-deals",
+          "image": "shopify:\/\/shop_images\/bernadette.jpg",
+          "overline": "Où est bernadette ?",
+          "title": "Où est bernadette ?",
+          "description": "Où est bernadette ?",
+          "button1": "Acheter",
+          "button1_url": "shopify:\/\/products\/ou-est-bernadette",
           "button2": "",
           "button2_url": "",
           "hero_external": false,
