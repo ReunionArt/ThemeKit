@@ -373,6 +373,7 @@
       },
       "1595533879839": {
         "type": "validator-bar",
+        "disabled": true,
         "blocks": {
           "1595533985043": {
             "type": "content",
@@ -1499,7 +1500,7 @@
               "name": "Quotidien",
               "testimonial": "<p>Les ailes de l'ocean<\/p>",
               "image": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
-              "quote": false
+              "quote": true
             }
           },
           "1601324457687-0": {
@@ -1652,16 +1653,15 @@
       },
       "1596824502217": {
         "type": "video-background-hero",
-        "disabled": true,
         "settings": {
           "dark_theme": true,
           "autoplay": true,
           "autoloop": false,
-          "mp4": "https:\/\/cdn.shopify.com\/s\/files\/1\/0789\/1333\/files\/Solar_Table_Instagram_v3--min.mp4?v=1596838245",
+          "mp4": "https:\/\/fb.watch\/foGReV329D\/",
           "mp4_preview": "Blue_Sky.mp4?v=1596830001",
           "video": "",
           "display_text_over_video": false,
-          "title": "Become independent, healthy & resilient.",
+          "title": "Bernadette",
           "subtitle": "",
           "caption_background": false,
           "caption_background_transparency": false,
