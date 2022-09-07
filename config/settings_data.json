@@ -267,6 +267,7 @@
           "1602281874842-0": {
             "type": "product",
             "settings": {
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "featured_product": "ou-est-bernadette",
               "rating": 4,
               "title": "Rapide et efficace",
@@ -278,6 +279,7 @@
           "1607117291127": {
             "type": "product",
             "settings": {
+              "image": "shopify:\/\/shop_images\/lesailesdelocean_79ac777a-8202-4580-85ee-2566dfce95da.jpg",
               "featured_product": "ou-est-bernadette",
               "rating": 5,
               "title": "Super",
@@ -289,6 +291,7 @@
           "1602281874842-1": {
             "type": "product",
             "settings": {
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "featured_product": "ou-est-bernadette",
               "rating": 5,
               "title": "Ca change",
@@ -1500,7 +1503,7 @@
               "name": "Quotidien",
               "testimonial": "<p>Les ailes de l'ocean<\/p>",
               "image": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
-              "quote": true
+              "quote": false
             }
           },
           "1601324457687-0": {
