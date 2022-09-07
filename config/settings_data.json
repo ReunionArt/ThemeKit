@@ -1531,8 +1531,9 @@
           "1601324457687-2": {
             "type": "tab",
             "settings": {
-              "name": "CES",
-              "testimonial": "<p>GoSun won <strong>Climate Change Innovation Award<\/strong> (2019) and <strong>Small Business of the Year Award<\/strong> (2017).<\/p>",
+              "name": "Quotidien",
+              "testimonial": "<p>Les ailes de l'ocean<\/p>",
+              "image": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
               "quote": false
             }
           },
@@ -1540,7 +1541,8 @@
             "type": "tab",
             "settings": {
               "name": "Forbes",
-              "testimonial": "<p>People can now improve their quality of life without requiring the use of fossil fuels or deforestation.<\/p>",
+              "testimonial": "<p>Bernadette<\/p>",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "quote": true
             }
           },
@@ -1548,7 +1550,8 @@
             "type": "tab",
             "settings": {
               "name": "Discovery Channel",
-              "testimonial": "<p>The GoSun is a stunning, tube-shaped portable oven powerful enough to bake, fry or broil a meal in as little as 10 minutes.<\/p>",
+              "testimonial": "<p>Les ailes<\/p>",
+              "image": "shopify:\/\/shop_images\/lesailesdelocean_79ac777a-8202-4580-85ee-2566dfce95da.jpg",
               "quote": true
             }
           },
@@ -1556,7 +1559,8 @@
             "type": "tab",
             "settings": {
               "name": "Top Chef",
-              "testimonial": "<p>José Andrés challenges contestants to cook with GoSun solar-powered stoves.<\/p>",
+              "testimonial": "<p>Les ailes<\/p>",
+              "image": "shopify:\/\/shop_images\/lesailesdelocean.jpg",
               "quote": false
             }
           },
@@ -1564,7 +1568,8 @@
             "type": "tab",
             "settings": {
               "name": "Tech Crunch",
-              "testimonial": "<p>Fire is for prehistoric man. The modern man uses the sustainable and renewable energy to cook meats and veggies – like the GoSun Stove .<\/p>",
+              "testimonial": "<p>Bernadette<\/p>",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "quote": true
             }
           },
@@ -1572,7 +1577,8 @@
             "type": "tab",
             "settings": {
               "name": "National Geographic",
-              "testimonial": "<p>&quot;For simmering our sauces, we used GoSun Stoves, which are smaller and more compact but still have incredible power.&quot; - José Andrés<\/p>",
+              "testimonial": "<p>Bern<\/p>",
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
               "quote": true
             }
           }
@@ -1586,7 +1592,7 @@
           "1601324618148"
         ],
         "settings": {
-          "title": "In the press"
+          "title": "Dans la presse"
         }
       },
       "mega-menu-4": {
