@@ -256,8 +256,8 @@
           "wide_display": true,
           "display_first_name": false,
           "display_last_name": false,
-          "newsletter_title": "Take the lead.",
-          "newsletter_text": "<p>Subscribe for tips, tricks, recipes, and special deals.<\/p>",
+          "newsletter_title": "Abonez-vous",
+          "newsletter_text": "<p>Abonnez-vous pour ne rien rater.<\/p>",
           "newsletter_section_text_align": "center"
         }
       },
