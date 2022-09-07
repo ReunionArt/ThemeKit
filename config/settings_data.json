@@ -413,7 +413,7 @@
           "1595533985043": {
             "type": "content",
             "settings": {
-              "value_prop": "customer_count"
+              "value_prop": "shipping"
             }
           },
           "1595533879839-1": {
@@ -1879,45 +1879,50 @@
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "link": "shopify:\/\/collections\/solar-ovens",
-              "overline": "Shop",
-              "title": "Ovens"
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "link": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
+              "overline": "Découvrir",
+              "title": "Découvrir"
             }
           },
           "1576887130693-1": {
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "link": "shopify:\/\/collections\/solar-coolers",
-              "overline": "Shop",
-              "title": "Coolers"
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "link": "shopify:\/\/products\/ou-est-bernadette",
+              "overline": "Découvrir",
+              "title": "Découvrir"
             }
           },
           "1576887130693-2": {
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "link": "shopify:\/\/collections\/solar-chargers",
-              "overline": "Shop",
-              "title": "Chargers"
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "link": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
+              "overline": "Découvrir",
+              "title": "Découvrir"
             }
           },
           "1576887130693-3": {
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "link": "shopify:\/\/collections\/solar-lighting",
-              "overline": "Shop",
-              "title": "Lighting"
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "link": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
+              "overline": "Découvrir",
+              "title": "Découvrir"
             }
           },
           "1596745484279": {
             "type": "image",
             "settings": {
               "background_color": "stripe--dark",
-              "link": "shopify:\/\/collections\/water",
-              "overline": "Shop",
-              "title": "Water"
+              "image": "shopify:\/\/shop_images\/bernadette.jpg",
+              "link": "shopify:\/\/collections\/livres-du-soir-pour-enfants",
+              "overline": "Découvrir",
+              "title": "Découvrir"
             }
           }
         },
@@ -1945,7 +1950,7 @@
           "button2": "",
           "button2_url": "",
           "hero_external": false,
-          "display_text": true,
+          "display_text": false,
           "full_width": true,
           "invert": false,
           "dark_theme": false,
